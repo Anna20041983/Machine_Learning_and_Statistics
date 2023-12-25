@@ -1,11 +1,17 @@
 # Machine_Learning_and_Statistics
-***
-Assesment for Machine Learning and Statistics
-Version 1.0.0
 
+**Version 1.0.0**
+***
 
 ## Description
+This repository contains an assesment for Machine Learning and Statistics Module
+
+## A list of items in this repository:
+1. Tasks file with 5 tasks 
+2. Project file
+3. Sample data
 ***
+
 
 ## Running the Code
 ***
@@ -14,5 +20,6 @@ Version 1.0.0
 ***
 
 ## Author
-***
+
 Anna Kozakiewicz
+***
