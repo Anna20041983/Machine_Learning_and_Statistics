@@ -29,9 +29,6 @@ This repository contains an assesment for Machine Learning and Statistics Module
 6. In each individual Jupyter Notebook click on 'Kernel', then 'Restart & Run All' to run codes and generate graphs
 ***
 
-## Inspiration
-***
-
 ## Author
 
 Anna Kozakiewicz
